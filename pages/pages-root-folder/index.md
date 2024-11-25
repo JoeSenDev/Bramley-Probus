@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Who are we?"
   url: 'https://joesendev.github.io/bramley-probus/blog/'
-  image: probus.jpg
+  image: probus1.jpg
   text: '.'
 widget2:
   title: "Why use this theme?"
