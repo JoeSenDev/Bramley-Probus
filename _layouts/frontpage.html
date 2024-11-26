@@ -19,9 +19,10 @@ format: frontpage
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
+	{% if page.widget2.image or page.widget1.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
 </div><!-- /.row -->
-
-
 
 {% comment %}
 *
