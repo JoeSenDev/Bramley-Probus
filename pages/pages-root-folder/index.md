@@ -8,21 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: faukner-room.jpg
 
-widget1:
-  title: "Who are we?"
+widget2:
+  title: "Where are we?"
+  url: 
+  image: 
+  text: 'We are based in Bramley, just South of Guildford in Surrey.  Our membership is predominantly from Bramley, Wonersh, Shamley Green, Shalford, and Grafham; although some members come from much further afield.  '
+widget3:
+  title: "Lunches"
   url: 
   image: golf_club_new.png
-  text: 'The Bramley and District Probus Club is based in Bramley, just South of Guildford in Surrey.  We draw our membership predominanrtly from Bramley, Wonersh, Shamley Green, Shalford, and Grafham; although some members come from much further afield.  We seek to promote a social fellowship from those who are semi or fully retired from business or professional careers. We warmly welcome new members to join us. Please visit our contact page for details and to download a membership form.'
-widget2:
-  title: "Venue"
-  url: 
-  image: probus_icon_small.jpg
-  text: 'To be added'
-widget3:
+  text: 'We meet on the 4th Thursday of the month for lunch (12:00 for 12:30) at <a href="https://www.bramleygolfclub.co.uk/">Bramley Golf Club</a>.   In the winter months the lunch is followed by a speaker.<br><br>Some lunches (e.g. summer BBQ and Christmas) are deemed to be special in that members are actively encouraged to invite a partner and/or guest'
+widget1:
   title: "Probus?"
-  url: 
+  url:  /probus_clubs
   image: probus_icon_small.jpg
-  text: 'To be added'  
+  text: 'Probus Clubs seek to promote a social fellowship from those who are semi or fully retired from business or professional careers.'
 # widget2:
 #   title: "Why use this theme?"
 #  url: 'https://joesendev.github.io/bramley-probus/info/'

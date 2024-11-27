@@ -29,7 +29,7 @@ categories:
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
+        <p>Website: <<a href="https://mosonic.net/">mosonic.net</a>/p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
