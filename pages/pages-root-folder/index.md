@@ -46,7 +46,7 @@ widget1:
 callforaction:  
   url: /contact
   text: Interested in joining us?
-  style: alert
+  style: info
 # Main index  
 permalink: /index.html
 #
