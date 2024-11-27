@@ -11,12 +11,12 @@ header:
 widget1:
   title: "Who are we?"
   url: 
-  image: 
-  text: 'The Bramley and District Probus Club is based in Bramley, just South of Guildford in Surrey.  We draw our membership predominanrtly from Bramley, Wonersh, Shamley Green, Shalford, and Grafham; although some members come from much further afield.  We seek to promote a social fellowship from those who are semi or fully retired from business or professional careers. We warmly welcome new members to join us. Please visit our contact page for details and to download a membership form. '
+  image: golf_club_new.png
+  text: 'The Bramley and District Probus Club is based in Bramley, just South of Guildford in Surrey.  We draw our membership predominanrtly from Bramley, Wonersh, Shamley Green, Shalford, and Grafham; although some members come from much further afield.  We seek to promote a social fellowship from those who are semi or fully retired from business or professional careers. We warmly welcome new members to join us. Please visit our contact page for details and to download a membership form.'
 widget2:
   title: "Venue"
   url: 
-  image: golf_club.jpg
+  image: probus_icon_small.jpg
   text: 'To be added'
 widget3:
   title: "Probus?"
