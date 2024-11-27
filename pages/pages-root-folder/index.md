@@ -11,12 +11,12 @@ header:
 widget1:
   title: "Who are we?"
   url: 'https://joesendev.github.io/bramley-probus/blog/'
-  image: probus_icon.jpg
+  image: probus_icon_small.jpg
   text: 'To be added'
 widget2:
   title: "Who are we?"
   url: 
-  image: probus_icon.jpg
+  image: probus_icon_small.jpg
   text: 'To be added'
 # widget2:
 #   title: "Why use this theme?"
