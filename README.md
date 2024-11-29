@@ -11,7 +11,7 @@ If you are a webdesigner interested in Jekyll, the static website generator, thi
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <https://joesendev.github.io/bramley-probus/>.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <https://joesendev.github.io/bramleyProbus/>.
 
 To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
@@ -54,13 +54,13 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
 
- [1]: https://joesendev.github.io/bramley-probus/documentation/
+ [1]: https://joesendev.github.io/bramleyProbus/documentation/
  [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: https://joesendev.github.io/bramley-probus/info/
+ [3]: https://joesendev.github.io/bramleyProbus/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
  [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: https://joesendev.github.io/bramley-probus/
+ [7]: https://joesendev.github.io/bramleyProbus/
  [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #

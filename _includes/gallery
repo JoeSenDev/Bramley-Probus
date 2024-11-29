@@ -21,7 +21,7 @@
 *
 *   {% include gallery %}
 *
-*   Check out the example page › https://joesendev.github.io/bramley-probus/design/gallery/
+*   Check out the example page › https://joesendev.github.io/bramleyProbus/design/gallery/
 *
 {% endcomment %}
 <div>
