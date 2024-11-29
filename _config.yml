@@ -14,7 +14,7 @@ title: 'Bramley Probus'
 slogan: 'Bramley & District Probus'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Bramley & District Probus is .... .'
+description: 'Bramley & District Probus is one of many Probus Clubs.... .'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by Joe with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://jekyllthemes.io/theme/feeling-responsive">Feeling Responsive</a>.</p>'
