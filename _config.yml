@@ -25,7 +25,7 @@ author: Joe
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://joesendev.github.io'
+url: 'https://joesendev.github.io/'
 baseurl: '/bramleyProbus'
 
 # This is for the editing function in _/includes/improve_content
